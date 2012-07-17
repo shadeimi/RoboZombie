@@ -24,3 +24,6 @@ python server.py start
 #run the test
 pybot test.txt
 
+To use a proxy follow these guidelines:
+http://jjasonclark.com/how-to-setup-node-behind-web-proxy
+
